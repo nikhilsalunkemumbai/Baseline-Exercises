@@ -1,0 +1,9 @@
+192.168.1.100
+10.0.0.50
+172.16.0.25
+192.168.1.200
+10.0.0.150
+8.8.8.8 # Example of a non-malicious IP that might be in a blocklist if misconfigured
+203.0.113.10
+198.51.100.20
+192.0.2.5

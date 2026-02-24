@@ -1,0 +1,9 @@
+id,username,email,role,last_login
+1,john_doe,john.doe@example.com,user,2026-02-23T14:30:00Z
+2,jane_smith,jane.smith@example.com,admin,2026-02-24T09:15:22Z
+3,bob_johnson,bob.johnson@example.com,user,2026-02-22T18:00:00Z
+4,alice_williams,alice.williams@example.com,editor,2026-02-24T11:05:10Z
+5,charlie_brown,charlie.brown@example.com,guest,2026-02-20T08:45:00Z
+6,david_lee,david.lee@example.com,user,2026-02-24T10:00:00Z
+7,eve_davis,eve.davis@example.com,admin,2026-02-24T12:00:00Z
+8,frank_white,frank.white@example.com,user,2026-02-21T07:30:00Z
