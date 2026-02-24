@@ -96,7 +96,7 @@ Setup Instructions:
 # Screenshot of Kibana Discover showing parsed syslog messages from your Linux machine.
 # Optional: Screenshot of "Filebeat System Overview" dashboard in Kibana.
 ```
-![Expected output](images/exercise-16-output.png)
+
 
 ## Reflection Questions
 

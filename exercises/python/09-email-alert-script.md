@@ -118,7 +118,7 @@ Enter your email password or app password:
 Email sent successfully!
 ```
 *(Check the receiver's inbox for the email.)*
-![Expected output](images/exercise-09-output.png)
+
 
 ## Reflection Questions
 

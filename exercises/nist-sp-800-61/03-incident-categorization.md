@@ -65,7 +65,7 @@ Setup Instructions:
 *   **Severity:** Medium
 *   **Justification:** Unauthorized access and user creation on a development server. No production data compromise, but indicates a security lapse and potential for further lateral movement if not contained.
 ```
-![Expected output](images/exercise-03-output.png)
+
 
 ## Reflection Questions
 

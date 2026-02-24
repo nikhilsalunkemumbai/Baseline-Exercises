@@ -76,7 +76,7 @@ Setup Instructions:
 
 # Screenshot of Kibana Discover showing log entries
 ```
-![Expected output](images/exercise-02-output.png)
+
 
 ## Reflection Questions
 

@@ -53,7 +53,7 @@ No.     Time        Source          Destination     Protocol Length Info        
 4       0.000150    192.168.1.100   1.2.3.4         HTTP     250    GET /index.html HTTP/1.1      0x018 (PSH, ACK)
 ...
 ```
-![Expected output](images/exercise-09-output.png)
+
 
 ## Reflection Questions
 

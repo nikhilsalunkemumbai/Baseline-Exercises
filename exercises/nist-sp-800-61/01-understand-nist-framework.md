@@ -50,7 +50,7 @@ Setup Instructions:
     *   Summary: ...
     *   Key Outputs: ...
 ```
-![Expected output](images/exercise-01-output.png)
+
 
 ## Reflection Questions
 

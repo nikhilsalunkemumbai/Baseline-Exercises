@@ -49,7 +49,7 @@ No.     Time        Source          Destination     Protocol Length Info
 Example 2: Packet List with `http` filter (related to the same session), showing no packets.
 (No packets displayed if HTTPS is correctly enforced)
 ```
-![Expected output](images/exercise-16-output.png)
+
 
 ## Reflection Questions
 

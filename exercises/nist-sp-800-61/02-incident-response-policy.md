@@ -71,7 +71,7 @@ Setup Instructions:
 ## 9.0 Related Documents
    *   Lists other relevant policies, standards, or guidelines that support the incident response effort (e.g., acceptable use policy, data retention policy).
 ```
-![Expected output](images/exercise-02-output.png)
+
 
 ## Reflection Questions
 

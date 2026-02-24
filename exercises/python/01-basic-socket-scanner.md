@@ -108,7 +108,7 @@ Port 31337 is OPEN
 --------------------------------------------------
 Scanning Completed in: 0:00:03.123456
 ```
-![Expected output](images/exercise-01-output.png)
+
 
 ## Reflection Questions
 

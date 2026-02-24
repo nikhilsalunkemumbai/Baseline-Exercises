@@ -58,7 +58,7 @@ C:\Temp\ads_test.txt:
 --------  --------  --------
       27  :hidden_stream:$DATA
 ```
-![Expected output](images/exercise-08-output.png)
+
 
 ## Reflection Questions
 

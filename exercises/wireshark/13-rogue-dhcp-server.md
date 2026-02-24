@@ -72,7 +72,7 @@ Bootstrap Protocol (DHCP)
     Option: (54) DHCP Server Identifier (192.168.1.5)
     ...
 ```
-![Expected output](images/exercise-13-output.png)
+
 
 ## Reflection Questions
 

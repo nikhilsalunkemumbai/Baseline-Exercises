@@ -56,7 +56,7 @@ When simulating ransomware-like activity, you will see bursts of:
 - WRITE operations by `cmd.exe`/`powershell.exe` creating `C:\RansomwareTest\RANSOM_NOTE.txt`.
 - DELETE operations by `cmd.exe`/`powershell.exe` on files in the test directory.
 ```
-![Expected output](images/exercise-16-output.png)
+
 
 ## Reflection Questions
 

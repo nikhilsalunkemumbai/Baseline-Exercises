@@ -79,7 +79,7 @@ Setup Instructions:
     *   Implement enhanced monitoring capabilities (e.g., new SIEM correlation rules, EDR alerts) to detect any recurrence of the incident or similar threats.
     *   Monitor for any unusual activity from restored systems.
 ```
-![Expected output](images/exercise-07-output.png)
+
 
 ## Reflection Questions
 

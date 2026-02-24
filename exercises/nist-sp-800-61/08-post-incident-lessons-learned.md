@@ -67,7 +67,7 @@ The primary goals of a post-incident review are to:
     *   **Lesson Learned:** Lack of a structured communication plan for different stakeholder groups (especially management) can cause misinformation and erode trust during an incident.
     *   **Recommendation:** (Process) Develop a formal incident communication plan that specifies communication channels, frequency, and content tailored for various audiences (e.g., technical teams, senior management, legal, PR). Assign a dedicated communication lead for major incidents.
 ```
-![Expected output](images/exercise-08-output.png)
+
 
 ## Reflection Questions
 

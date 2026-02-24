@@ -48,7 +48,7 @@ DLL View columns visible: Path, Company Name, Verified Signer.
 Many DLLs will show "Microsoft Corporation" as the Company Name and "(Verified)" or "Microsoft Windows" as the Verified Signer.
 Potentially suspicious entries might have blank "Verified Signer", "(Unable to verify)", or non-standard Company Names/Paths.
 ```
-![Expected output](images/exercise-12-output.png)
+
 
 ## Reflection Questions
 

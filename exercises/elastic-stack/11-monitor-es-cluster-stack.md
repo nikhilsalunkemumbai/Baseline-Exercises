@@ -45,7 +45,7 @@ Setup Instructions:
 # Screenshot of the Kibana Stack Monitoring "Overview" page showing the cluster status and key metrics.
 # Screenshot of an Elasticsearch node detail page showing resource utilization graphs (CPU, Memory).
 ```
-![Expected output](images/exercise-11-output.png)
+
 
 ## Reflection Questions
 

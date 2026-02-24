@@ -62,7 +62,7 @@ Summary: TCP Port numbers reused
 Summary: TCP Retransmission
 ...
 ```
-![Expected output](images/exercise-04-output.png)
+
 
 ## Reflection Questions
 

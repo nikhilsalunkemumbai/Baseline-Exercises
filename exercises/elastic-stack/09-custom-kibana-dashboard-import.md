@@ -89,7 +89,7 @@ Setup Instructions:
 # Screenshot of the Kibana "Import Saved Objects" confirmation screen after successful import.
 # Screenshot of the imported dashboard displaying its panels.
 ```
-![Expected output](images/exercise-09-output.png)
+
 
 ## Reflection Questions
 

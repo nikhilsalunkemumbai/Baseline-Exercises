@@ -114,7 +114,7 @@ Setup Instructions:
 # Screenshot of Kibana Discover showing the new 'geoip' field with enriched data
 # Optional: Screenshot of a Kibana Map showing log events plotted by location
 ```
-![Expected output](images/exercise-08-output.png)
+
 
 ## Reflection Questions
 

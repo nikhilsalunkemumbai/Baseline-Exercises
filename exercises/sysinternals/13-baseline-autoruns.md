@@ -58,7 +58,7 @@ Suspicious entries might be highlighted in pink, have blank/unverified signers, 
 When saving: A `.arn` file (e.g., "clean_system_baseline_20240224.arn") will be created, storing all scanned data.
 When comparing: Autoruns will show a filtered view with new/modified entries highlighted in green.
 ```
-![Expected output](images/exercise-13-output.png)
+
 
 ## Reflection Questions
 

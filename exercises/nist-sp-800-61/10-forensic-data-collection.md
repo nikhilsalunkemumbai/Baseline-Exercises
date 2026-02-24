@@ -108,7 +108,7 @@ In digital forensics, the "Chain of Custody" is the documented, unbroken trail o
 **Evidence Location (Current):** [Secure Storage Facility / Lab / etc.]
 ---
 ```
-![Expected output](images/exercise-10-output.png)
+
 
 ## Reflection Questions
 

@@ -107,7 +107,7 @@ All employees of the organization (general workforce).
 *   **Assessment:** Short quiz at the end of the module (e.g., 80% passing score required). Phishing simulation exercises.
 
 ```
-![Expected output](images/exercise-12-output.png)
+
 
 ## Reflection Questions
 

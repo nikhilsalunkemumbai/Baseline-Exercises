@@ -46,7 +46,7 @@ Address           Packets    Bytes        Tx Packets   Rx Packets   Tx Bytes    
 192.168.1.1       1200       200000       600          600          100000       100000       0.2%       0.2%
 ...
 ```
-![Expected output](images/exercise-12-output.png)
+
 
 ## Reflection Questions
 

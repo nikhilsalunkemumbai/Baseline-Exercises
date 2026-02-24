@@ -48,7 +48,7 @@ Example of `user_agents.csv` content:
 "curl/7.81.0"
 ...
 ```
-![Expected output](images/exercise-14-output.png)
+
 
 ## Reflection Questions
 

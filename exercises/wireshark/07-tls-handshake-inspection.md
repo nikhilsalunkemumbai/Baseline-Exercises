@@ -73,7 +73,7 @@ Transport Layer Security
                 Supported Versions: TLS 1.3 (0x0304), TLS 1.2 (0x0303), TLS 1.1 (0x0302)
             ...
 ```
-![Expected output](images/exercise-07-output.png)
+
 
 ## Reflection Questions
 

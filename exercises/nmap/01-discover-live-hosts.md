@@ -46,7 +46,7 @@ Host is up (0.012s latency).
 MAC Address: 77:88:99:00:AA:BB (Your Computer)
 Nmap done: 256 IP addresses (3 hosts up) scanned in 2.15 seconds
 ```
-![Expected output](images/exercise-01-output.png)
+
 
 ## Reflection Questions
 

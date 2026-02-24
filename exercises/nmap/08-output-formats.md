@@ -55,7 +55,7 @@ Nmap done: 1 IP address (1 host up) scanned in 10.50 seconds
 
 (Check your directory for the created files: scan_normal.txt, scan_xml.xml, scan_grep.txt, scan_all.nmap, scan_all.xml, scan_all.gnmap)
 ```
-![Expected output](images/exercise-08-output.png)
+
 
 ## Reflection Questions
 

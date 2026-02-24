@@ -46,7 +46,7 @@ No.     Time        Source          Destination     Protocol Length Info
 13      0.123890    8.8.8.8         AA:BB:CC:DD:EE:FF DNS      75     Standard query response A 142.250.72.36
 ... (all packets will involve AA:BB:CC:DD:EE:FF as either source or destination)
 ```
-![Expected output](images/exercise-08-output.png)
+
 
 ## Reflection Questions
 

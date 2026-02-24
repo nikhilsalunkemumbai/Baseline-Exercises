@@ -75,7 +75,7 @@ Address Resolution Protocol (request)
     Target MAC address: 00:00:00:00:00:00 (broadcast)
     Target IP address: 192.168.1.1
 ```
-![Expected output](images/exercise-10-output.png)
+
 
 ## Reflection Questions
 

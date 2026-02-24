@@ -53,7 +53,7 @@ User: DESKTOP-ABC\User
 ...
 --------------------------------------------------
 ```
-![Expected output](images/exercise-01-output.png)
+
 
 ## Reflection Questions
 

@@ -59,7 +59,7 @@ No.     Time        Source          Destination     Protocol Length Info
 12      0.000200    192.168.1.100   192.168.1.200   HTTP     300    GET /malware.php HTTP/1.1
 ... (all packets will involve one of the malicious IPs)
 ```
-![Expected output](images/exercise-15-output.png)
+
 
 ## Reflection Questions
 

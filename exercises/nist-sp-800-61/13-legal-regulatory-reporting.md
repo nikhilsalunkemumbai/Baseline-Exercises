@@ -94,7 +94,7 @@ Upon confirmation of a data breach requiring notification, the following interna
 9.  **Notify Affected Individuals:** Send notifications to affected data subjects (if required).
 10. **Document Everything:** Maintain thorough records of all decisions, actions, and communications related to the breach notification process.
 ```
-![Expected output](images/exercise-13-output.png)
+
 
 ## Reflection Questions
 

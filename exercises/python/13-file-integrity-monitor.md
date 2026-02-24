@@ -207,7 +207,7 @@ Monitoring 'monitor_files' for changes...
 Summary: 1 new, 1 modified, 0 deleted.
 ```
 *(You will need to manually create `monitor_files/config.txt` and `monitor_files/script.py` (or similar) before running, and then modify `config.txt` and add `new_script.py` before pressing Enter for the monitoring step.)*
-![Expected output](images/exercise-13-output.png)
+
 
 ## Reflection Questions
 

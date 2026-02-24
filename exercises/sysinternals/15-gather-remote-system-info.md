@@ -91,7 +91,7 @@ Installed software applications for \REMOTEMACHINE:
 [List of installed applications]
 ...
 ```
-![Expected output](images/exercise-15-output.png)
+
 
 ## Reflection Questions
 

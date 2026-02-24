@@ -97,7 +97,7 @@ Setup Instructions:
   "_primary_term" : 1
 }
 ```
-![Expected output](images/exercise-01-output.png)
+
 
 ## Reflection Questions
 

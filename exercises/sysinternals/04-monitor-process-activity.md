@@ -57,7 +57,7 @@ Time of Day   Process Name   PID     Operation      Path                        
 1:23:46.0012  Calculator.exe 5432    ReadFile       C:\Windows\System32\en-US\Calculator...   SUCCESS   Offset: 0, Length: 8192
 ...
 ```
-![Expected output](images/exercise-04-output.png)
+
 
 ## Reflection Questions
 

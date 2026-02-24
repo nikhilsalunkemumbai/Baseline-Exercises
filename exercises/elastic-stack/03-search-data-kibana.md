@@ -51,7 +51,7 @@ Setup Instructions:
 ```
 # Screenshot of Kibana Discover with search results for "ERROR"
 ```
-![Expected output](images/exercise-03-output.png)
+
 
 ## Reflection Questions
 

@@ -40,7 +40,7 @@ PORT      STATE    SERVICE
 31337/tcp open     Elite
 Nmap done: 1 IP address (1 host up) scanned in 10.50 seconds
 ```
-![Expected output](images/exercise-02-output.png)
+
 
 ## Reflection Questions
 

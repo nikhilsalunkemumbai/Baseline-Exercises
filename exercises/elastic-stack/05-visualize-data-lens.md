@@ -42,7 +42,7 @@ Setup Instructions:
 ```
 # Screenshot of Kibana Lens showing a bar chart of log levels (e.g., INFO, WARNING, ERROR)
 ```
-![Expected output](images/exercise-05-output.png)
+
 
 ## Reflection Questions
 

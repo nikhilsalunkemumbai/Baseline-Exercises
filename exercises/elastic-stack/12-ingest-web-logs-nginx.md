@@ -124,7 +124,7 @@ ginx_access.log # Adjust to your Nginx access log path
 
 # Screenshot of Kibana Discover showing parsed Nginx log entries with structured fields (e.g., remote_ip, method, response_code).
 ```
-![Expected output](images/exercise-12-output.png)
+
 
 ## Reflection Questions
 

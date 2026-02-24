@@ -67,7 +67,7 @@ Content-Type: text/html
 </html>
 ============================================================
 ```
-![Expected output](images/exercise-06-output.png)
+
 
 ## Reflection Questions
 

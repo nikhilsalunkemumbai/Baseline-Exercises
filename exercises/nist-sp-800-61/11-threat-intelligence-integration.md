@@ -72,7 +72,7 @@ Threat Intelligence (TI) is evidence-based knowledge, including context, mechani
 *   **Operational TI:** Context-rich information about specific upcoming attacks or campaigns. Relevant for security analysts and incident responders during active incidents. (e.g., "A phishing campaign targeting our industry is using domain 'badurl.com' and malware hash 'abc123def456'").
 *   **Technical TI:** Low-level, actionable IOCs (IPs, hashes, domains) that can be directly fed into security tools like SIEMs, firewalls, and EDRs for automated detection and blocking. (e.g., a list of known malicious IPs from a blocklist).
 ```
-![Expected output](images/exercise-11-output.png)
+
 
 ## Reflection Questions
 

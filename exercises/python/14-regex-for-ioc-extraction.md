@@ -155,7 +155,7 @@ Domains (excluding IPs):
 
 ----------------------
 ```
-![Expected output](images/exercise-14-output.png)
+
 
 ## Reflection Questions
 

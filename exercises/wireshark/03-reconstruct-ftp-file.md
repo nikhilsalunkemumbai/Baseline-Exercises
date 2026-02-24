@@ -53,7 +53,7 @@ End of file.
 
 (After saving and opening the file, its content should match what was transferred.)
 ```
-![Expected output](images/exercise-03-output.png)
+
 
 ## Reflection Questions
 

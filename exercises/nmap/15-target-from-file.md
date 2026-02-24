@@ -62,7 +62,7 @@ Host is up (0.001s latency).
 ...
 Nmap done: 7 IP addresses (X hosts up) scanned in Y.ZZ seconds
 ```
-![Expected output](images/exercise-15-output.png)
+
 
 ## Reflection Questions
 

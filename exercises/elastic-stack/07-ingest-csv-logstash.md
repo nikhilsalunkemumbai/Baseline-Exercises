@@ -113,7 +113,7 @@ Setup Instructions:
 
 # Screenshot of Kibana Discover showing CSV data
 ```
-![Expected output](images/exercise-07-output.png)
+
 
 ## Reflection Questions
 

@@ -40,7 +40,7 @@ No.     Time        Source          Destination     Protocol Length Info
 13      0.123890    8.8.8.8         192.168.1.100   TCP      66     53 → 55482 [SYN, ACK] Seq=0 Ack=1 Win=29200 Len=0 MSS=1460 SACK_PERM=1 WS=128
 ... (all packets will involve 8.8.8.8 as either source or destination)
 ```
-![Expected output](images/exercise-02-output.png)
+
 
 ## Reflection Questions
 

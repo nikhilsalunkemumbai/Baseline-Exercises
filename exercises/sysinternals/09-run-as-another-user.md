@@ -62,7 +62,7 @@ Process Name   PID   User Name
 notepad.exe    8765  YOURCOMPUTERNAME\TestUser
 ...
 ```
-![Expected output](images/exercise-09-output.png)
+
 
 ## Reflection Questions
 

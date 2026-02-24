@@ -74,7 +74,7 @@ Product:     n/a
 Description: Some driver
 ...
 ```
-![Expected output](images/exercise-06-output.png)
+
 
 ## Reflection Questions
 

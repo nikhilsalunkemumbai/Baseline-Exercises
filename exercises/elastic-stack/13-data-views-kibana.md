@@ -48,7 +48,7 @@ Setup Instructions:
 # Screenshot of the Kibana "Data Views" list showing your created data views.
 # Screenshot of a Data View's "Fields" tab, showing details of a selected field (e.g., `log.level` or `nginx.access.response_code`).
 ```
-![Expected output](images/exercise-13-output.png)
+
 
 ## Reflection Questions
 

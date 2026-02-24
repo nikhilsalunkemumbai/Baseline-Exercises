@@ -110,7 +110,7 @@ URL Encoded (quote_plus): My+value+with+spaces+%26+symbols%21
 URL Decoded (unquote_plus): My value with spaces & symbols!
 ------------------------------
 ```
-![Expected output](images/exercise-15-output.png)
+
 
 ## Reflection Questions
 

@@ -119,7 +119,7 @@ Command exited with code: 0
 --- Executing command: thisisnotacommand ---
 Error: Command 'thisisnotacommand' not found. Is it in your system's PATH?
 ```
-![Expected output](images/exercise-11-output.png)
+
 
 ## Reflection Questions
 

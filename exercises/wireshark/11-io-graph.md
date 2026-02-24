@@ -53,7 +53,7 @@ Example: (Imagine a graph with a green line for "All packets" showing general ac
 
 [Wireshark I/O Graph window showing X-axis as "Time (s)" and Y-axis as "Packets/tick". Multiple colored lines representing different filters (e.g., "All packets", "http", "tcp.analysis.retransmission") are plotted. Peaks and troughs in these lines are visible.]
 ```
-![Expected output](images/exercise-11-output.png)
+
 
 ## Reflection Questions
 

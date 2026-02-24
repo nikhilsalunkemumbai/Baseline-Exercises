@@ -97,7 +97,7 @@ Clearly defined roles and responsibilities within an Incident Response Team are 
 *   **Post-Incident:** Participates in post-incident reviews from a business perspective, champions necessary changes.
 *   **Key Skills:** Business acumen, risk management, strategic decision-making.
 ```
-![Expected output](images/exercise-16-output.png)
+
 
 ## Reflection Questions
 

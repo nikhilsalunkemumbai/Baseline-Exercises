@@ -49,7 +49,7 @@ Sysinternals - www.sysinternals.com
 
 notepad.exe        pid: 7890   type: File   2F8: C:\Users\YourUser\Desktop\locked_document.txt
 ```
-![Expected output](images/exercise-03-output.png)
+
 
 ## Reflection Questions
 

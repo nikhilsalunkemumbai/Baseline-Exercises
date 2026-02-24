@@ -42,7 +42,7 @@ PORT      STATE    SERVICE
 ...
 Nmap done: 1 IP address (1 host up) scanned in 10.50 seconds
 ```
-![Expected output](images/exercise-13-output.png)
+
 
 ## Reflection Questions
 

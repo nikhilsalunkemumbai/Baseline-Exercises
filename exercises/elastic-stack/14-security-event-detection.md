@@ -56,7 +56,7 @@ Setup Instructions:
 # Screenshot of the "Alerts" page showing a triggered alert (e.g., "Multiple Failed Login Attempts").
 # Screenshot of an alert details page, showing event context.
 ```
-![Expected output](images/exercise-14-output.png)
+
 
 ## Reflection Questions
 

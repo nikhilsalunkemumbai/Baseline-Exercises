@@ -93,7 +93,7 @@ Measuring incident response effectiveness is crucial for:
 *   **Reporting Frequency:** Monthly or Quarterly reports for management, with ad-hoc reporting for critical incidents.
 *   **Target Values:** These should be tailored to the organization's risk appetite, industry benchmarks, and available resources. They should be reviewed and adjusted periodically.
 ```
-![Expected output](images/exercise-15-output.png)
+
 
 ## Reflection Questions
 

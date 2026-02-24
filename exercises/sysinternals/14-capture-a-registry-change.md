@@ -65,7 +65,7 @@ Event Properties Dialog (for RegSetValue event):
 - Event Tab: Confirms Path, Operation, Result, and "Data: Hello Baseline" in Detail.
 - Process Tab: Shows "Process Name", "Command Line", "User" for the modifying process.
 ```
-![Expected output](images/exercise-14-output.png)
+
 
 ## Reflection Questions
 

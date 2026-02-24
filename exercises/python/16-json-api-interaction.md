@@ -110,7 +110,7 @@ HTTP Status Code: 200
 Extracted Title: delectus aut autem
 Extracted Completed Status: false
 ```
-![Expected output](images/exercise-16-output.png)
+
 
 ## Reflection Questions
 

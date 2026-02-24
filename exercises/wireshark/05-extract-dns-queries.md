@@ -63,7 +63,7 @@ Example from exported `dns_queries.csv`:
 "api.thirdparty.com"
 ...
 ```
-![Expected output](images/exercise-05-output.png)
+
 
 ## Reflection Questions
 

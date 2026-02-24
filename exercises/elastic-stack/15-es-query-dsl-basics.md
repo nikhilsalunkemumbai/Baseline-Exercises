@@ -126,7 +126,7 @@ Setup Instructions:
 
 # Example response for a boolean query (truncated)
 ```
-![Expected output](images/exercise-15-output.png)
+
 
 ## Reflection Questions
 

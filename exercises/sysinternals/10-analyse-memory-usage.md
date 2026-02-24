@@ -48,7 +48,7 @@ VMMap main window showing:
 - Details View (lower pane) showing individual memory regions (addresses, sizes, protection, details) for selected memory types.
 - If snapshots are compared, differences highlighted in green (new) and red (freed).
 ```
-![Expected output](images/exercise-10-output.png)
+
 
 ## Reflection Questions
 

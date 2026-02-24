@@ -119,7 +119,7 @@ Successfully wrote 1 records to 'active_admins.csv'.
 username,email,role,last_login
 jane.smith,jane.smith@example.com,admin,2026-02-24T11:30:00Z
 ```
-![Expected output](images/exercise-10-output.png)
+
 
 ## Reflection Questions
 

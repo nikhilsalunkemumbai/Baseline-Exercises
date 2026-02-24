@@ -57,7 +57,7 @@ Setup Instructions:
 # Screenshot of Kibana Alerting & Actions interface showing the created rule.
 # Screenshot of the rule status changing to "Alerting" or "Triggered" after the condition is met.
 ```
-![Expected output](images/exercise-10-output.png)
+
 
 ## Reflection Questions
 

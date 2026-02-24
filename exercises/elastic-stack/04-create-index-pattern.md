@@ -40,7 +40,7 @@ Setup Instructions:
 # Screenshot of the "Create index pattern" screen with "filebeat-*" entered and matches shown
 # Screenshot of the Index Pattern details page showing various fields and their properties
 ```
-![Expected output](images/exercise-04-output.png)
+
 
 ## Reflection Questions
 

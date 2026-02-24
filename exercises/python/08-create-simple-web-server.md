@@ -97,7 +97,7 @@ Press Ctrl+C to stop the server.
 ^C
 Server stopped by user.
 ```
-![Expected output](images/exercise-08-output.png)
+
 
 ## Reflection Questions
 

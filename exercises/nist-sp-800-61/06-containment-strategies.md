@@ -76,7 +76,7 @@ Setup Instructions:
     *   **Proposed Containment:** Immediately disable the employee's access to all sensitive systems and data. Initiate covert monitoring of their remaining activities (e.g., email, network traffic) if legal and policy allow, to gather further evidence. Secure their workstation. Engage legal and HR.
     *   **Justification:** Requires a sensitive approach due to legal/HR implications. Immediate access revocation limits further damage, while covert monitoring can provide valuable evidence for internal investigation and potential legal action. Evidence preservation is paramount.
 ```
-![Expected output](images/exercise-06-output.png)
+
 
 ## Reflection Questions
 

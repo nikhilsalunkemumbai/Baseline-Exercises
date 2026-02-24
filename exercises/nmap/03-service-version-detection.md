@@ -44,7 +44,7 @@ PORT      STATE    SERVICE      VERSION
 31337/tcp open     Elite        (No version detected)
 Nmap done: 1 IP address (1 host up) scanned in 15.20 seconds
 ```
-![Expected output](images/exercise-03-output.png)
+
 
 ## Reflection Questions
 

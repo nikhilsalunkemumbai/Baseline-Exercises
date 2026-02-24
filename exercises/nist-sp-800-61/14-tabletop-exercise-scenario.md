@@ -117,7 +117,7 @@ It's a typical Tuesday morning. Employees are starting their workday. Suddenly, 
     *   Discussion on employee support during downtime.
     *   Planning for post-incident review and lessons learned.
 ```
-![Expected output](images/exercise-14-output.png)
+
 
 ## Reflection Questions
 

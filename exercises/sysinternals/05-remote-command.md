@@ -68,7 +68,7 @@ Ethernet adapter Ethernet:
 ... (rest of ipconfig /all output from remote machine)
 ipconfig exited on <RemoteMachineIP> with error code 0.
 ```
-![Expected output](images/exercise-05-output.png)
+
 
 ## Reflection Questions
 

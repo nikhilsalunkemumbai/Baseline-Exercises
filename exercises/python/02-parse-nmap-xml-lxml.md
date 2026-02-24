@@ -118,7 +118,7 @@ Host: scanme.nmap.org (45.33.32.156) - Status: UP
 
 --- End of Report ---
 ```
-![Expected output](images/exercise-02-output.png)
+
 
 ## Reflection Questions
 

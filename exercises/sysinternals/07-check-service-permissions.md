@@ -58,7 +58,7 @@ Sysinternals - www.sysinternals.com
   R  NT AUTHORITY\SERVICE
   R  BUILTIN\Users
 ```
-![Expected output](images/exercise-07-output.png)
+
 
 ## Reflection Questions
 

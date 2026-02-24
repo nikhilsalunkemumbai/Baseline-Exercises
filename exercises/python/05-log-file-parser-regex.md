@@ -150,7 +150,7 @@ Line 5:
   Size: 200
 --------------------
 ```
-![Expected output](images/exercise-05-output.png)
+
 
 ## Reflection Questions
 

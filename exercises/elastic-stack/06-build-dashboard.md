@@ -47,7 +47,7 @@ Setup Instructions:
 ```
 # Screenshot of a Kibana Dashboard showing at least two panels (e.g., "Log Levels Distribution" chart and a saved search with error logs)
 ```
-![Expected output](images/exercise-06-output.png)
+
 
 ## Reflection Questions
 

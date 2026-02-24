@@ -57,7 +57,7 @@ New connections briefly highlighted in green.
 Terminated connections briefly highlighted in red.
 Resolved domain names (e.g., google.com) and service names (e.g., http) for remote addresses/ports.
 ```
-![Expected output](images/exercise-11-output.png)
+
 
 ## Reflection Questions
 

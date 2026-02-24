@@ -117,7 +117,7 @@ MY_TEST_VARIABLE after unsetting: None
 Run 'echo %MY_TEST_VARIABLE%' (Windows) or 'echo $MY_TEST_VARIABLE' (Linux/macOS) in your shell AFTER this script finishes.
 You should find that MY_TEST_VARIABLE is NOT set in your shell.
 ```
-![Expected output](images/exercise-12-output.png)
+
 
 ## Reflection Questions
 

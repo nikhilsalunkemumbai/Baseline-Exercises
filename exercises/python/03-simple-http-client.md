@@ -119,7 +119,7 @@ Content-Length: 1256
         font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Open Sans", "Helvetica Neue", He
 ------------------------------------------
 ```
-![Expected output](images/exercise-03-output.png)
+
 
 ## Reflection Questions
 

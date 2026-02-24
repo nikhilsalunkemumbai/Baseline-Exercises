@@ -68,7 +68,7 @@ This checklist outlines critical steps an organization should take to prepare fo
 *   [ ]  **Reporting Procedures:** Are clear procedures for internal and external incident reporting established?
 *   [ ]  **Public Relations/Legal Support:** Is legal and public relations support identified and available for incident communication?
 ```
-![Expected output](images/exercise-04-output.png)
+
 
 ## Reflection Questions
 

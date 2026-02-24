@@ -81,7 +81,7 @@ Setup Instructions:
 *   **Resolution & Post-Incident:**
     *   "Post-Incident Report: [Link to statement/FAQ explaining the incident, actions taken, and what customers can expect]. We value your trust and are committed to maintaining the security of our services."
 ```
-![Expected output](images/exercise-09-output.png)
+
 
 ## Reflection Questions
 

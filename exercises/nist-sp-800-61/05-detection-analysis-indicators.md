@@ -112,7 +112,7 @@ An Indicator of Compromise (IOC) is a piece of forensic data, such as data found
         *   Digital signatures (absence of, or invalid signature).
         *   Process names/command-line arguments.
 ```
-![Expected output](images/exercise-05-output.png)
+
 
 ## Reflection Questions
 
