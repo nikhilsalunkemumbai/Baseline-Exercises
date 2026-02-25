@@ -1,14 +1,14 @@
-# Contributing to Baseline-bite-size
+# Contributing to Baseline-Exercises
 
-We welcome and appreciate your contributions to the Baseline-bite-size project! Whether you're fixing a bug, adding a new exercise, improving existing content, or updating documentation, your help is valuable. This document outlines the guidelines for contributing to ensure a smooth and collaborative process.
+We welcome and appreciate your contributions to the Baseline-Exercises project! Whether you're fixing a bug, adding a new exercise, improving existing content, or updating documentation, your help is valuable. This document outlines the guidelines for contributing to ensure a smooth and collaborative process.
 
 ## How to Contribute
 
-1.  **Fork the Repository:** Start by forking the `Baseline-bite-size` repository to your GitHub account.
+1.  **Fork the Repository:** Start by forking the `Baseline-Exercises` repository to your GitHub account.
 2.  **Clone Your Fork:** Clone your forked repository to your local machine:
     ```bash
-    git clone https://github.com/your-username/Baseline-bite-size.git
-    cd Baseline-bite-size
+    git clone https://github.com/nikhilsalunkemumbai/Baseline-Exercises.git
+    cd Baseline-Exercises
     ```
 3.  **Create a New Branch:** Create a new branch for your changes. Use a descriptive name that reflects the nature of your contribution (e.g., `feature/new-wireshark-exercise`, `fix/nmap-typo`, `docs/update-setup-guide`).
     ```bash
@@ -34,7 +34,7 @@ We welcome and appreciate your contributions to the Baseline-bite-size project! 
     git push origin your-branch-name
     ```
 8.  **Create a Pull Request (PR):**
-    *   Go to the original `Baseline-bite-size` repository on GitHub.
+    *   Go to the original `Baseline-Exercises` repository on GitHub.
     *   You should see a prompt to create a new pull request from your recently pushed branch.
     *   Provide a detailed description of your changes in the PR, including:
         *   What problem does this PR solve?

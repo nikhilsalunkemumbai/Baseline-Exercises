@@ -1,6 +1,6 @@
-# Setup Guide for Baseline-bite-size
+# Setup Guide for Baseline-Exercises
 
-This guide provides step-by-step instructions to set up your environment for all exercises in the `Baseline-bite-size` repository. It covers the installation of necessary tools, preparation of sample data, and configuration tips.
+This guide provides step-by-step instructions to set up your environment for all exercises in the `Baseline-Exercises` repository. It covers the installation of necessary tools, preparation of sample data, and configuration tips.
 
 ## Table of Contents
 

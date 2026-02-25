@@ -1,6 +1,6 @@
-# Bite-Sized Threat Hunting & Incident Response Exercises
+# Bite-Sized Baseline Technical Skills Exercises
 
-Welcome to the `exercises` directory! This is the core of the `Baseline-bite-size` repository, offering 96 hands-on challenges across 6 essential Threat Hunting & Incident Response (THIR) tools. Each exercise is designed to be completed in 1-2 hours, providing practical skills and tangible outputs for your portfolio.
+Welcome to the `exercises` directory! This is the core of the `Baseline-Exercises` repository, offering 96 hands-on challenges across 6 essential baseline technical tools. Each exercise is designed to be completed in 1-2 hours, providing practical skills and tangible outputs for your portfolio.
 
 ## How to Use These Exercises
 

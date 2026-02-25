@@ -61,7 +61,7 @@ Setup Instructions:
 
 ## Reflection Questions
 
-1.  How can alerting help in proactive threat hunting and incident response?
+1.  How can alerting help in proactive security operations?
 2.  What are the key components of a Kibana alert rule (condition, action, interval)?
 3.  Besides logging, what other types of actions could be useful for security alerts?
 

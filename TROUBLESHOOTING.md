@@ -1,4 +1,4 @@
-# Troubleshooting Guide for Baseline-bite-size Exercises
+# Troubleshooting Guide for Baseline-Exercises
 
 This guide provides solutions to common issues you might encounter while setting up your environment or working through the exercises. Always refer back to the [`SETUP.md`](SETUP.md) for correct installation steps and configurations.
 

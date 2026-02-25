@@ -1,12 +1,12 @@
-# Baseline-bite-size
+# Baseline-Exercises
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-"96 bite-size, hands-on exercises to master Threat Hunting & Incident Response tools."
+"96 bite-size, hands-on exercises to master baseline technical skills."
 
 ## Mission Statement
 
-To provide a free, structured path for anyone to gain practical, job-ready skills in Threat Hunting and Incident Response through small, self-contained exercises that can be completed in a couple of hours. This project aims to democratize Baseline skills, emphasizing hands-on learning over theory, and building a community of practitioners who learn together.
+To provide a free, structured path for anyone to gain practical, job-ready baseline technical skills through small, self-contained exercises that can be completed in a couple of hours. This project aims to democratize Baseline skills, emphasizing hands-on learning over theory, and building a community of practitioners who learn together.
 
 ## Project Goals
 
@@ -21,12 +21,12 @@ This project embodies a professional, encouraging, and pragmatic approach to lea
 
 ## Why Bite-Size?
 
-Drawing from 15 years of experience in enterprise infrastructure and a pivot into Baseline consulting, the project owner understands the value of actionable, focused learning. Complex topics in cybersecurity can be daunting. By breaking down expertise into 1-2 hour exercises, this repository makes mastering Threat Hunting & Incident Response tools achievable. This format ensures minimal setup time, allowing practitioners and students to quickly dive into practical scenarios using free tools, local VMs, or sample data, and immediately produce tangible outputs for their portfolios.
+Drawing from 15 years of experience in enterprise infrastructure and a pivot into Baseline consulting, the project owner understands the value of actionable, focused learning. Complex topics in cybersecurity can be daunting. By breaking down expertise into 1-2 hour exercises, this repository makes mastering baseline technical skills achievable. This format ensures minimal setup time, allowing practitioners and students to quickly dive into practical scenarios using free tools, local VMs, or sample data, and immediately produce tangible outputs for their portfolios.
 
 ## Who Is This For?
 
 This repository is designed for:
-*   **Primary Audience:** Security practitioners, students, and professionals who are looking to gain or transition into Baseline roles in Threat Hunting & Incident Response.
+*   **Primary Audience:** Security practitioners, students, and professionals who are looking to gain or transition into Baseline roles in foundational technical areas.
 *   **Secondary Audience:** Recruiters and potential clients who seek to verify the owner's (and other contributors') practical skills through demonstrable work.
 
 ## Tools Covered
@@ -59,12 +59,12 @@ The exercises are structured around six core tools, each critical for a robust B
 
 ## Getting Started
 
-To get up and running with the `Baseline-bite-size` exercises quickly, follow these steps:
+To get up and running with the `Baseline-Exercises` exercises quickly, follow these steps:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/Baseline-bite-size.git
-    cd Baseline-bite-size
+    git clone https://github.com/nikhilsalunkemumbai/Baseline-Exercises.git
+    cd Baseline-Exercises
     ```
 2.  **Set Up Your Environment**: Follow the detailed instructions in [`SETUP.md`](SETUP.md) to install all necessary tools and prepare your system.
 3.  **Explore Exercises**: Dive into the exercises by browsing the [`exercises/README.md`](exercises/README.md) for a categorized list and learning paths.

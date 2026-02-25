@@ -1,6 +1,6 @@
-# Resources for Baseline-bite-size Exercises
+# Resources for Baseline-Exercises
 
-This directory contains various resources to support the `Baseline-bite-size` exercises. This primarily includes sample data files used in different exercises.
+This directory contains various resources to support the `Baseline-Exercises` exercises. This primarily includes sample data files used in different exercises.
 
 ## Table of Contents
 
