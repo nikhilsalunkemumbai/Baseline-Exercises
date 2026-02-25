@@ -6,7 +6,6 @@
     - [DONE] Create base directory structure.
     - [DONE] Create `templates/exercise-template.md`.
     - [DONE] Generate 16 Wireshark exercise files.
-    - [DONE] Generate `GEMINI.md`.
     - [DONE] Generate 16 Sysinternals Suite exercise files.
     - [DONE] Generate 16 Nmap exercise files.
     - [DONE] Generate 16 Python exercise files.
