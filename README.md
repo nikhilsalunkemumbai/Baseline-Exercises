@@ -21,7 +21,7 @@ This project embodies a professional, encouraging, and pragmatic approach to lea
 
 ## Why Bite-Size?
 
-Drawing from 15 years of experience in enterprise infrastructure and a pivot into Baseline consulting, the project owner understands the value of actionable, focused learning. Complex topics in cybersecurity can be daunting. By breaking down expertise into 1-2 hour exercises, this repository makes mastering baseline technical skills achievable. This format ensures minimal setup time, allowing practitioners and students to quickly dive into practical scenarios using free tools, local VMs, or sample data, and immediately produce tangible outputs for their portfolios.
+This project emphasizes the value of actionable, focused learning in enterprise infrastructure and Baseline consulting. Complex topics in cybersecurity can be daunting. By breaking down expertise into 1-2 hour exercises, this repository makes mastering baseline technical skills achievable. This format ensures minimal setup time, allowing practitioners and students to quickly dive into practical scenarios using free tools, local VMs, or sample data, and immediately produce tangible outputs for their portfolios.
 
 ## Who Is This For?
 
@@ -39,7 +39,7 @@ The exercises are structured around six core tools, each critical for a robust B
 
 2.  **Sysinternals Suite**
     *   Focus: Windows OS internals.
-    *   Description: A collection of advanced utilities for managing, diagnosing, and troubleshooting Windows systems, crucial for understanding process activity, system calls, and security configurations. (Note: Exercises for this tool are Windows-only, leveraging deep Windows experience.)
+    *   Description: A collection of advanced utilities for managing, diagnosing, and troubleshooting Windows systems, crucial for understanding process activity, system calls, and security configurations. (Note: Exercises for this tool are Windows-only, leveraging extensive Windows OS knowledge.)
 
 3.  **Nmap**
     *   Focus: Security fundamentals / network scanning.
