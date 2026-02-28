@@ -8,6 +8,13 @@
 
 To provide a free, structured path for anyone to gain practical, job-ready baseline technical skills through small, self-contained exercises that can be completed in a couple of hours. This project aims to democratize Baseline skills, emphasizing hands-on learning over theory, and building a community of practitioners who learn together.
 
+---
+
+### **⚠️ Disclaimer**
+**This toolkit is provided for educational and administrative purposes only.** Automating security configurations or hardware management carries inherent risks. Always test scripts in a non-production environment before deployment. The authors are not responsible for any system downtime, data loss, or hardware issues resulting from the use of these tools.
+
+---
+
 ## Project Goals
 
 *   Break down complex Baseline domains into manageable, bite-size tasks.
